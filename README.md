@@ -37,14 +37,13 @@ It leverages the power of the TanStack ecosystem (Query for data fetching/cachin
 
 **Install dependencies:**
     (Depending on your setup, you might have a monorepo structure with `packages/client` and `packages/worker`, or a single project. Adjust accordingly.)
-
-    ```bash
-    npm install
-    # or
-    yarn install
-    # or
-    pnpm install
-    ```
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+```
 
 ### Development
 
